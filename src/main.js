@@ -1,7 +1,7 @@
-// // Import our custom CSS
+// Import our custom CSS
 import "/src/style.scss";
 
-// // Import all of Bootstrap’s JS
+// Import all of Bootstrap’s JS
 // import * as bootstrap from "bootstrap";
 
 // Import just what we need
